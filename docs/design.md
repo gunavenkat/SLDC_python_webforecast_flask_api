@@ -140,16 +140,16 @@ db_path = "db.sqlite3"
 ## Data Flow Diagram
 
 ### Overall flow
-![Overall Flow](https://bitbucket.org/venkatagunasekhar/sdlc_python_web_forecast_flask_api/raw/6400b09fddab7a80993273d9698f2e8d734b6f3c/docs/images/full%20data%20flow.png)
+![Overall Flow](/docs/images/full%20data%20flow.png)
 
 ### Flask flow
-![Flask flow](https://bitbucket.org/venkatagunasekhar/sdlc_python_web_forecast_flask_api/raw/6400b09fddab7a80993273d9698f2e8d734b6f3c/docs/images/flask.png)
+![Flask flow](/docs/images/flask.png)
 
 ### Tkinter flow
-![Tkinter flow](https://bitbucket.org/venkatagunasekhar/sdlc_python_web_forecast_flask_api/raw/6400b09fddab7a80993273d9698f2e8d734b6f3c/docs/images/tkinter.png)
+![Tkinter flow](/docs/images/tkinter.png)
 
 ### Jupyter flow
-![Jupyter flow](https://bitbucket.org/venkatagunasekhar/sdlc_python_web_forecast_flask_api/raw/6400b09fddab7a80993273d9698f2e8d734b6f3c/docs/images/jupyter.png)
+![Jupyter flow](/docs/images/jupyter.png)
 
 ---
 
